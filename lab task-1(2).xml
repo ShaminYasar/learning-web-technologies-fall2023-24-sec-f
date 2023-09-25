@@ -1,0 +1,32 @@
+<table>
+<tr>
+<SLNO> 23 </SLNO>
+<NAME> John Carter </NAME>
+<ADMISSIONDATE> 
+<date>25</date>
+<month>december</month>
+<year>2015</year>
+</ADMISSIONDATE>
+</tr>
+
+<tr>
+<SLNO> 29 </SLNO>
+<NAME> Bob Marshal </NAME>
+<ADMISSIONDATE> 
+<date>13</date>
+<month>january</month>
+<year>1999</year>
+</ADMISSIONDATE>
+</tr>
+
+<tr>
+<SLNO> 35 </SLNO>
+<NAME> Clark Kent </NAME>
+<ADMISSIONDATE> 
+<date>17</date>
+<month>june</month>
+<year>2005</year>
+</ADMISSIONDATE>
+</tr>
+
+</table>
